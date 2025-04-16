@@ -45,6 +45,15 @@ This section focuses on salary-related insights:
 
 ---
 
+## 🖼️ Dashboard Previews
+
+### 📊 Summary View
+![HR Dashboard Summary View](dashboard_previews/HR Summary.png)
+
+### 🧬 Demographics View
+![HR Dashboard Detailed View](dashboard_previews/HR Details.png)
+
+
 Shoutout to [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/
 ) for the inspiration 💡.
 
