@@ -52,8 +52,8 @@ This section focuses on salary-related insights:
 
 ## 🖼️ Dashboard Previews
 
-### 📊 Summary View
+### 📊 HR Dashboard Summary
 ![HR Dashboard Summary View](dashboard_previews/hr_summary.png)
 
-### 🧬 Demographics View
+### 🧬 HR Dashboard Detailed
 ![HR Dashboard Detailed View](dashboard_previews/hr_details.png)
