@@ -1,5 +1,7 @@
 ## 🧭 Summary View
 
+The dashboard is published via Tableau Public and can be found here: [View the Live HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/aj.v3290/viz/HRDashboardTableauproject/HRSummary?publish=yes). 
+
 The data used in this HR Dashboard project is generated using a combination of ChatGPT prompts and the Python Faker library. This dataset simulates a set of employee information typically found in HR systems, including demographics, job details, salary, performance evaluations, and attrition data.
 
 The generated data is designed to mimic real-world HR data, providing a rich dataset for analysis and visualization in Tableau.
@@ -42,8 +44,6 @@ This section focuses on salary-related insights:
 - 📈 Analysis of the **correlation between age and salary per department**
 
 ---
-
-The dashboard is published is via Tableau Public and can be found here: [View the Live HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/aj.v3290/viz/HRDashboardTableauproject/HRSummary?publish=yes). 
 
 Shoutout to [Baraa Khatib Salkini]([https://public.tableau.com/app/profile/aj.v3290/viz/HRDashboardTableauproject/HRSummary?publish=yes](https://www.linkedin.com/in/baraa-khatib-salkini/
 ) for the inspiration 💡.
