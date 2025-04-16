@@ -45,7 +45,7 @@ This section focuses on salary-related insights:
 
 ---
 
-Shoutout to [Baraa Khatib Salkini]([https://public.tableau.com/app/profile/aj.v3290/viz/HRDashboardTableauproject/HRSummary?publish=yes](https://www.linkedin.com/in/baraa-khatib-salkini/
+Shoutout to [Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/
 ) for the inspiration 💡.
 
 
