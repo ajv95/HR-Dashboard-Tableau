@@ -42,3 +42,10 @@ This section focuses on salary-related insights:
 - 📈 Analysis of the **correlation between age and salary per department**
 
 ---
+
+The dashboard is published is via Tableau Public and can be found here: [View the Live HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/aj.v3290/viz/HRDashboardTableauproject/HRSummary?publish=yes). 
+
+Shoutout to [Baraa Khatib Salkini]([https://public.tableau.com/app/profile/aj.v3290/viz/HRDashboardTableauproject/HRSummary?publish=yes](https://www.linkedin.com/in/baraa-khatib-salkini/
+) for the inspiration 💡.
+
+
